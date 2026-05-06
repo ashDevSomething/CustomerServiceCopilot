@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Start-Sleep -Seconds 8)",
+      "Bash(Get-Content \"C:\\\\Users\\\\ashis\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-ashis-Desktop-projectTodisplay-customer-review\\\\dc7d99c1-84b1-4ff1-9ccc-17c66c91061a\\\\tasks\\\\bkjy5ycsb.output\")"
+    ]
+  }
+}
